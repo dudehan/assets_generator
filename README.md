@@ -4,13 +4,6 @@ A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1、将assets_generator.py文件导入自己的工程
+2、到assets_generator.py所在文件目录下执行脚本命令：python assets_generator.py assets/images lib/image_r.dart ImageR
+ + 
